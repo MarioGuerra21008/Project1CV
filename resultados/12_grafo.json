@@ -1,0 +1,298 @@
+{
+    "nodos": [
+        {
+            "id": 0,
+            "coordenadas": {
+                "fila": 34,
+                "columna": 113
+            }
+        },
+        {
+            "id": 1,
+            "coordenadas": {
+                "fila": 34,
+                "columna": 114
+            }
+        },
+        {
+            "id": 2,
+            "coordenadas": {
+                "fila": 34,
+                "columna": 115
+            }
+        },
+        {
+            "id": 3,
+            "coordenadas": {
+                "fila": 35,
+                "columna": 114
+            }
+        },
+        {
+            "id": 4,
+            "coordenadas": {
+                "fila": 44,
+                "columna": 36
+            }
+        },
+        {
+            "id": 5,
+            "coordenadas": {
+                "fila": 107,
+                "columna": 62
+            }
+        },
+        {
+            "id": 6,
+            "coordenadas": {
+                "fila": 108,
+                "columna": 62
+            }
+        },
+        {
+            "id": 7,
+            "coordenadas": {
+                "fila": 108,
+                "columna": 63
+            }
+        },
+        {
+            "id": 8,
+            "coordenadas": {
+                "fila": 116,
+                "columna": 71
+            }
+        },
+        {
+            "id": 9,
+            "coordenadas": {
+                "fila": 117,
+                "columna": 71
+            }
+        },
+        {
+            "id": 10,
+            "coordenadas": {
+                "fila": 117,
+                "columna": 72
+            }
+        },
+        {
+            "id": 11,
+            "coordenadas": {
+                "fila": 165,
+                "columna": 45
+            }
+        },
+        {
+            "id": 12,
+            "coordenadas": {
+                "fila": 166,
+                "columna": 45
+            }
+        },
+        {
+            "id": 13,
+            "coordenadas": {
+                "fila": 166,
+                "columna": 46
+            }
+        },
+        {
+            "id": 14,
+            "coordenadas": {
+                "fila": 174,
+                "columna": 239
+            }
+        },
+        {
+            "id": 15,
+            "coordenadas": {
+                "fila": 175,
+                "columna": 238
+            }
+        },
+        {
+            "id": 16,
+            "coordenadas": {
+                "fila": 175,
+                "columna": 239
+            }
+        },
+        {
+            "id": 17,
+            "coordenadas": {
+                "fila": 251,
+                "columna": 75
+            }
+        },
+        {
+            "id": 18,
+            "coordenadas": {
+                "fila": 251,
+                "columna": 76
+            }
+        },
+        {
+            "id": 19,
+            "coordenadas": {
+                "fila": 251,
+                "columna": 77
+            }
+        },
+        {
+            "id": 20,
+            "coordenadas": {
+                "fila": 252,
+                "columna": 76
+            }
+        },
+        {
+            "id": 21,
+            "coordenadas": {
+                "fila": 46,
+                "columna": 4
+            }
+        },
+        {
+            "id": 22,
+            "coordenadas": {
+                "fila": 174,
+                "columna": 294
+            }
+        },
+        {
+            "id": 23,
+            "coordenadas": {
+                "fila": 205,
+                "columna": 74
+            }
+        },
+        {
+            "id": 24,
+            "coordenadas": {
+                "fila": 230,
+                "columna": 206
+            }
+        },
+        {
+            "id": 25,
+            "coordenadas": {
+                "fila": 267,
+                "columna": 163
+            }
+        },
+        {
+            "id": 26,
+            "coordenadas": {
+                "fila": 268,
+                "columna": 99
+            }
+        },
+        {
+            "id": 27,
+            "coordenadas": {
+                "fila": 276,
+                "columna": 269
+            }
+        }
+    ],
+    "aristas": [
+        {
+            "origen": 0,
+            "destino": 1
+        },
+        {
+            "origen": 0,
+            "destino": 2
+        },
+        {
+            "origen": 0,
+            "destino": 3
+        },
+        {
+            "origen": 1,
+            "destino": 2
+        },
+        {
+            "origen": 1,
+            "destino": 3
+        },
+        {
+            "origen": 2,
+            "destino": 3
+        },
+        {
+            "origen": 5,
+            "destino": 6
+        },
+        {
+            "origen": 5,
+            "destino": 7
+        },
+        {
+            "origen": 6,
+            "destino": 7
+        },
+        {
+            "origen": 8,
+            "destino": 9
+        },
+        {
+            "origen": 8,
+            "destino": 10
+        },
+        {
+            "origen": 9,
+            "destino": 10
+        },
+        {
+            "origen": 11,
+            "destino": 12
+        },
+        {
+            "origen": 11,
+            "destino": 13
+        },
+        {
+            "origen": 12,
+            "destino": 13
+        },
+        {
+            "origen": 14,
+            "destino": 15
+        },
+        {
+            "origen": 14,
+            "destino": 16
+        },
+        {
+            "origen": 15,
+            "destino": 16
+        },
+        {
+            "origen": 17,
+            "destino": 18
+        },
+        {
+            "origen": 17,
+            "destino": 19
+        },
+        {
+            "origen": 17,
+            "destino": 20
+        },
+        {
+            "origen": 18,
+            "destino": 19
+        },
+        {
+            "origen": 18,
+            "destino": 20
+        },
+        {
+            "origen": 19,
+            "destino": 20
+        }
+    ]
+}

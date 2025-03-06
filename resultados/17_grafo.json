@@ -1,0 +1,550 @@
+{
+    "nodos": [
+        {
+            "id": 0,
+            "coordenadas": {
+                "fila": 31,
+                "columna": 80
+            }
+        },
+        {
+            "id": 1,
+            "coordenadas": {
+                "fila": 36,
+                "columna": 115
+            }
+        },
+        {
+            "id": 2,
+            "coordenadas": {
+                "fila": 37,
+                "columna": 114
+            }
+        },
+        {
+            "id": 3,
+            "coordenadas": {
+                "fila": 37,
+                "columna": 115
+            }
+        },
+        {
+            "id": 4,
+            "coordenadas": {
+                "fila": 37,
+                "columna": 116
+            }
+        },
+        {
+            "id": 5,
+            "coordenadas": {
+                "fila": 38,
+                "columna": 116
+            }
+        },
+        {
+            "id": 6,
+            "coordenadas": {
+                "fila": 38,
+                "columna": 117
+            }
+        },
+        {
+            "id": 7,
+            "coordenadas": {
+                "fila": 39,
+                "columna": 116
+            }
+        },
+        {
+            "id": 8,
+            "coordenadas": {
+                "fila": 53,
+                "columna": 10
+            }
+        },
+        {
+            "id": 9,
+            "coordenadas": {
+                "fila": 53,
+                "columna": 11
+            }
+        },
+        {
+            "id": 10,
+            "coordenadas": {
+                "fila": 54,
+                "columna": 11
+            }
+        },
+        {
+            "id": 11,
+            "coordenadas": {
+                "fila": 120,
+                "columna": 73
+            }
+        },
+        {
+            "id": 12,
+            "coordenadas": {
+                "fila": 120,
+                "columna": 74
+            }
+        },
+        {
+            "id": 13,
+            "coordenadas": {
+                "fila": 120,
+                "columna": 75
+            }
+        },
+        {
+            "id": 14,
+            "coordenadas": {
+                "fila": 120,
+                "columna": 76
+            }
+        },
+        {
+            "id": 15,
+            "coordenadas": {
+                "fila": 121,
+                "columna": 73
+            }
+        },
+        {
+            "id": 16,
+            "coordenadas": {
+                "fila": 121,
+                "columna": 75
+            }
+        },
+        {
+            "id": 17,
+            "coordenadas": {
+                "fila": 122,
+                "columna": 72
+            }
+        },
+        {
+            "id": 18,
+            "coordenadas": {
+                "fila": 122,
+                "columna": 73
+            }
+        },
+        {
+            "id": 19,
+            "coordenadas": {
+                "fila": 122,
+                "columna": 74
+            }
+        },
+        {
+            "id": 20,
+            "coordenadas": {
+                "fila": 123,
+                "columna": 72
+            }
+        },
+        {
+            "id": 21,
+            "coordenadas": {
+                "fila": 243,
+                "columna": 170
+            }
+        },
+        {
+            "id": 22,
+            "coordenadas": {
+                "fila": 243,
+                "columna": 171
+            }
+        },
+        {
+            "id": 23,
+            "coordenadas": {
+                "fila": 243,
+                "columna": 172
+            }
+        },
+        {
+            "id": 24,
+            "coordenadas": {
+                "fila": 244,
+                "columna": 171
+            }
+        },
+        {
+            "id": 25,
+            "coordenadas": {
+                "fila": 251,
+                "columna": 40
+            }
+        },
+        {
+            "id": 26,
+            "coordenadas": {
+                "fila": 252,
+                "columna": 39
+            }
+        },
+        {
+            "id": 27,
+            "coordenadas": {
+                "fila": 252,
+                "columna": 40
+            }
+        },
+        {
+            "id": 28,
+            "coordenadas": {
+                "fila": 253,
+                "columna": 40
+            }
+        },
+        {
+            "id": 29,
+            "coordenadas": {
+                "fila": 53,
+                "columna": 5
+            }
+        },
+        {
+            "id": 30,
+            "coordenadas": {
+                "fila": 53,
+                "columna": 186
+            }
+        },
+        {
+            "id": 31,
+            "coordenadas": {
+                "fila": 163,
+                "columna": 140
+            }
+        },
+        {
+            "id": 32,
+            "coordenadas": {
+                "fila": 254,
+                "columna": 199
+            }
+        },
+        {
+            "id": 33,
+            "coordenadas": {
+                "fila": 272,
+                "columna": 7
+            }
+        },
+        {
+            "id": 34,
+            "coordenadas": {
+                "fila": 273,
+                "columna": 173
+            }
+        },
+        {
+            "id": 35,
+            "coordenadas": {
+                "fila": 275,
+                "columna": 28
+            }
+        }
+    ],
+    "aristas": [
+        {
+            "origen": 1,
+            "destino": 2
+        },
+        {
+            "origen": 1,
+            "destino": 3
+        },
+        {
+            "origen": 1,
+            "destino": 4
+        },
+        {
+            "origen": 1,
+            "destino": 5
+        },
+        {
+            "origen": 1,
+            "destino": 6
+        },
+        {
+            "origen": 1,
+            "destino": 7
+        },
+        {
+            "origen": 2,
+            "destino": 3
+        },
+        {
+            "origen": 2,
+            "destino": 4
+        },
+        {
+            "origen": 2,
+            "destino": 5
+        },
+        {
+            "origen": 2,
+            "destino": 6
+        },
+        {
+            "origen": 3,
+            "destino": 4
+        },
+        {
+            "origen": 3,
+            "destino": 5
+        },
+        {
+            "origen": 3,
+            "destino": 6
+        },
+        {
+            "origen": 3,
+            "destino": 7
+        },
+        {
+            "origen": 4,
+            "destino": 5
+        },
+        {
+            "origen": 4,
+            "destino": 6
+        },
+        {
+            "origen": 4,
+            "destino": 7
+        },
+        {
+            "origen": 5,
+            "destino": 6
+        },
+        {
+            "origen": 5,
+            "destino": 7
+        },
+        {
+            "origen": 6,
+            "destino": 7
+        },
+        {
+            "origen": 8,
+            "destino": 9
+        },
+        {
+            "origen": 8,
+            "destino": 10
+        },
+        {
+            "origen": 8,
+            "destino": 29
+        },
+        {
+            "origen": 9,
+            "destino": 10
+        },
+        {
+            "origen": 9,
+            "destino": 29
+        },
+        {
+            "origen": 11,
+            "destino": 12
+        },
+        {
+            "origen": 11,
+            "destino": 13
+        },
+        {
+            "origen": 11,
+            "destino": 14
+        },
+        {
+            "origen": 11,
+            "destino": 15
+        },
+        {
+            "origen": 11,
+            "destino": 16
+        },
+        {
+            "origen": 11,
+            "destino": 17
+        },
+        {
+            "origen": 11,
+            "destino": 18
+        },
+        {
+            "origen": 11,
+            "destino": 19
+        },
+        {
+            "origen": 11,
+            "destino": 20
+        },
+        {
+            "origen": 12,
+            "destino": 13
+        },
+        {
+            "origen": 12,
+            "destino": 14
+        },
+        {
+            "origen": 12,
+            "destino": 15
+        },
+        {
+            "origen": 12,
+            "destino": 16
+        },
+        {
+            "origen": 12,
+            "destino": 17
+        },
+        {
+            "origen": 12,
+            "destino": 20
+        },
+        {
+            "origen": 12,
+            "destino": 18
+        },
+        {
+            "origen": 13,
+            "destino": 14
+        },
+        {
+            "origen": 13,
+            "destino": 15
+        },
+        {
+            "origen": 13,
+            "destino": 16
+        },
+        {
+            "origen": 13,
+            "destino": 19
+        },
+        {
+            "origen": 14,
+            "destino": 16
+        },
+        {
+            "origen": 14,
+            "destino": 19
+        },
+        {
+            "origen": 14,
+            "destino": 20
+        },
+        {
+            "origen": 15,
+            "destino": 17
+        },
+        {
+            "origen": 15,
+            "destino": 18
+        },
+        {
+            "origen": 15,
+            "destino": 19
+        },
+        {
+            "origen": 15,
+            "destino": 20
+        },
+        {
+            "origen": 16,
+            "destino": 19
+        },
+        {
+            "origen": 16,
+            "destino": 20
+        },
+        {
+            "origen": 16,
+            "destino": 18
+        },
+        {
+            "origen": 17,
+            "destino": 18
+        },
+        {
+            "origen": 17,
+            "destino": 19
+        },
+        {
+            "origen": 17,
+            "destino": 20
+        },
+        {
+            "origen": 18,
+            "destino": 19
+        },
+        {
+            "origen": 18,
+            "destino": 20
+        },
+        {
+            "origen": 19,
+            "destino": 20
+        },
+        {
+            "origen": 21,
+            "destino": 22
+        },
+        {
+            "origen": 21,
+            "destino": 23
+        },
+        {
+            "origen": 21,
+            "destino": 24
+        },
+        {
+            "origen": 22,
+            "destino": 23
+        },
+        {
+            "origen": 22,
+            "destino": 24
+        },
+        {
+            "origen": 23,
+            "destino": 24
+        },
+        {
+            "origen": 25,
+            "destino": 26
+        },
+        {
+            "origen": 25,
+            "destino": 27
+        },
+        {
+            "origen": 25,
+            "destino": 28
+        },
+        {
+            "origen": 26,
+            "destino": 27
+        },
+        {
+            "origen": 26,
+            "destino": 28
+        },
+        {
+            "origen": 27,
+            "destino": 28
+        }
+    ]
+}

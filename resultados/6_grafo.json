@@ -1,0 +1,119 @@
+{
+    "nodos": [
+        {
+            "id": 0,
+            "coordenadas": {
+                "fila": 17,
+                "columna": 133
+            }
+        },
+        {
+            "id": 1,
+            "coordenadas": {
+                "fila": 18,
+                "columna": 133
+            }
+        },
+        {
+            "id": 2,
+            "coordenadas": {
+                "fila": 18,
+                "columna": 134
+            }
+        },
+        {
+            "id": 3,
+            "coordenadas": {
+                "fila": 191,
+                "columna": 157
+            }
+        },
+        {
+            "id": 4,
+            "coordenadas": {
+                "fila": 191,
+                "columna": 158
+            }
+        },
+        {
+            "id": 5,
+            "coordenadas": {
+                "fila": 191,
+                "columna": 159
+            }
+        },
+        {
+            "id": 6,
+            "coordenadas": {
+                "fila": 192,
+                "columna": 158
+            }
+        },
+        {
+            "id": 7,
+            "coordenadas": {
+                "fila": 24,
+                "columna": 223
+            }
+        },
+        {
+            "id": 8,
+            "coordenadas": {
+                "fila": 189,
+                "columna": 236
+            }
+        },
+        {
+            "id": 9,
+            "coordenadas": {
+                "fila": 229,
+                "columna": 51
+            }
+        },
+        {
+            "id": 10,
+            "coordenadas": {
+                "fila": 238,
+                "columna": 207
+            }
+        }
+    ],
+    "aristas": [
+        {
+            "origen": 0,
+            "destino": 1
+        },
+        {
+            "origen": 0,
+            "destino": 2
+        },
+        {
+            "origen": 1,
+            "destino": 2
+        },
+        {
+            "origen": 3,
+            "destino": 4
+        },
+        {
+            "origen": 3,
+            "destino": 5
+        },
+        {
+            "origen": 3,
+            "destino": 6
+        },
+        {
+            "origen": 4,
+            "destino": 5
+        },
+        {
+            "origen": 4,
+            "destino": 6
+        },
+        {
+            "origen": 5,
+            "destino": 6
+        }
+    ]
+}
